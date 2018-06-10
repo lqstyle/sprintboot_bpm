@@ -1,0 +1,30 @@
+*{
+    background-color: #ffffff;
+}
+
+.head{
+    height: 40px;
+    padding: 12px 99px 0px 206px;
+}
+
+/*main*/
+.main {
+    width: 100%;
+    position: absolute;
+    height: 100%;
+}
+
+/*搜索信息栏*/
+.search{
+    height:50px;
+    line-height:50px;
+    padding-left: 24px;
+    color: #000;
+}
+
+.submit{
+    height: 50px;
+    line-height: 50px;
+    padding-left: 24px;
+    margin: 64px 3px 48px 138px;
+}
